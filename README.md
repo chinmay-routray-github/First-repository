@@ -1,5 +1,5 @@
 
-https://img.shields.io/badge/CR-FirstProject-blue
+<img alt="Static Badge" src="https://img.shields.io/badge/CR-FirstProject-blue">
 
 # Data structures and algorithms
 This contains implementation of various data structures and algorithms.
