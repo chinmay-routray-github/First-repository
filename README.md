@@ -8,7 +8,7 @@ I m just starting out on this kind of a thing.
 
 https://www.youtube.com/watch?v=8hly31xKli0&ab_channel=freeCodeCamp.org
 
-### This is a json file
+# This is a json file
 {
   "intents": [
     {
